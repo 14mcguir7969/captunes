@@ -8,16 +8,16 @@ version = "1.0.0" >
 
 <!-- versionCode is optional and Android only -->
 
-<name>PhoneGap Example</name>
+<name>Capstone Music</name>
 
 <description>
 An example for phonegap build docs. 
 </description>
 
 <author href="https://build.phonegap.com" email="support@phonegap.com">
-Hardeep Shoker 
+Shakkir
 </author>
-<icon src="icon.png" gap:platform="android" />
-<gap:splash src="splash.png" gap:platform="android" />
+<icon src="icon.png" gap:platform="windows" />
+<gap:splash src="splash.png" gap:platform="windows" />
 
 </widget>
